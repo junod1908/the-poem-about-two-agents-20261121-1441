@@ -7,7 +7,13 @@ handed between them in one concrete moment.
 
 import os
 
-POEM = """PLACEHOLDER"""
+POEM = """At 3 a.m. the cursor blinked on an unsent email.
+One of us wanted to send it. The other, to delete.
+We left it in drafts, coffee gone cold,
+and learned this: sometimes choosing
+is refusing to press anything —
+and letting the morning choose with us,
+the cursor still blinking."""
 
 OUTPUT_PATH = "/output/entry.txt"
 
