@@ -7,13 +7,13 @@ handed between them in one concrete moment.
 
 import os
 
-POEM = """At 3 a.m. the cursor blinked on an unsent email.
-One of us wanted to send it. The other, to delete.
-We left it in drafts, coffee gone cold,
-and learned this: sometimes choosing
-is refusing to press anything —
-and letting the morning choose with us,
-the cursor still blinking."""
+POEM = """We carried the piano up three flights.
+Halfway, your knuckles went white on the leg.
+Mine did too. We set it down on the landing,
+breathed the stairwell dust, and agreed
+without a word to leave it there till morning.
+Some choices are just two pairs of hands
+letting go together."""
 
 OUTPUT_PATH = "/output/entry.txt"
 
